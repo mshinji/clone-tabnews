@@ -3,6 +3,6 @@
     { "src": "pages/index.js", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    { "src": "/(.*)", "dest": "/index.js" }
   ]
 }
